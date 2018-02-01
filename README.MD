@@ -6,14 +6,15 @@
 clone and go into this repository
 
 ```
-git clone https://github.com/Larry850806/cheerio-weather
-cd cheerio-weather
+git clone https://github.com/Linus-Joker/Express0813.git
+cd Express0813
 ```
 install dependencies and run
 
 ```
 npm install
-node index.js
+npm start
+http://localhost:3000/test
 ```
 
 # Finish Picture
